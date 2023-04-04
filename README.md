@@ -1,2 +1,2 @@
 # exercism-julia
-Exercism exercises - Go track
+Exercism exercises - Julia track
